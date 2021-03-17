@@ -60,10 +60,6 @@ Mat addPostboxText(Mat frame, vector<int> postbox_indices);
 
 /* 
 
-NOTE: 90% of my coding so far has been in python in my own time (as I'm not a CS student), 
-so this code is likely to not be fantastically idiomatic C++. I've done my best to make it well commented
-and clean nonetheless!
-
 Code divided into two parts, first part is all functions used in actual processing of data
 
 Second part is all functions used to create visualisations etc.*/
